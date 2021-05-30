@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Eduardo
+- 👀 I’m interested in apps and subsystems that will help low profile users to get more of the internet
+- 🌱 I’m currently learning javascript and php
